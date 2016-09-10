@@ -1,0 +1,96 @@
+.pp
+{
+
+	width: 100px;
+	height: 100px;
+	border-radius: 8px;
+    left: 20%;
+    right: 20%;
+
+}
+.bgd
+{
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-image: url("pk.jpg");
+}
+.vdo
+{
+	height: 200px;
+	width: 200px;
+	position: absolute;
+right: 0px;
+bottom: 0px;
+
+}
+.home
+{
+	height: 10px;
+	width: 10px;
+	font-size: 20px;
+	background-color: white;
+	
+}
+.vv
+{
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-image: url("am.jpg");
+}
+.mm
+{
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-image: url("tm.jpg");
+
+}
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #456;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+  
+    text-align: center;
+    padding: 14px 52px;
+    text-decoration: none;
+}
+.meter
+{
+	height: 10px;
+	width: 10px;
+	font-size: 20px;
+background-color: lightgrey;
+}
+.contact
+{
+	height: 10px;
+	width: 10px;
+	font-size: 20px;
+background-color: grey;
+}
+div button
+{
+    display:inline-block;
+}
+.home
+{
+
+}
+.meter
+{
+
+}
+.contact
+{
+	
+}
